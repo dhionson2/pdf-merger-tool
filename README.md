@@ -60,10 +60,14 @@ Você é livre para usar, modificar e distribuir — desde que mantenha os devid
 💬 Contribuições
 Contribuições são muito bem-vindas!
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
-
+```
 Vamos construir juntos uma ferramenta cada vez mais útil! 💡🚀
 
-**Criado por [Dhionson Plaster Moreira](https://github.com/dhionson2)** 👨‍💻
+---
 
+## 👨‍💻 Sobre o autor
 
+**Dhionson Plaster Moreira** é desenvolvedor full stack com foco em soluções modernas e eficientes.
 
+Confira outros projetos ou contribua diretamente no GitHub:  
+👉 [github.com/dhionson2](https://github.com/dhionson2)
