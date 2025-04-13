@@ -63,21 +63,7 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 
 Vamos construir juntos uma ferramenta cada vez mais útil! 💡🚀
 
-Criado por Dhionson Plaster 👨‍💻
+**Criado por [Dhionson Plaster Moreira](https://github.com/dhionson2)** 👨‍💻
 
-✅ Agora:
-Salve este conteúdo no seu README.md
-
-Faça o commit:
-
-bash
-Copiar
-Editar
-git add README.md
-git commit -m "📝 Atualiza README com instruções e link de download"
-git push origin main
-css
-Copiar
-Editar
 
 
